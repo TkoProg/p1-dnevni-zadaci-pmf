@@ -12,6 +12,6 @@ while True:
         brojac += 1
     naj = math.gcd(n, naj)
 
-print("--------------------------------------")
+print("----------------------------")
 
 print(f"NZD je {naj}.")
