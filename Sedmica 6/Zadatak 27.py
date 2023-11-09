@@ -10,7 +10,5 @@ def fibonaci(x):
 
 
 n = int(input())
-
 niz = fibonaci(n)
-
 [print(x, end=" ") for x in niz]
