@@ -18,8 +18,6 @@ for i in range(a-1, m+a-1):
     for j in range(b-1, m+b-1):
         matrica[i][j] = " "
 
-print(matrica)
-
 for i in range(len(matrica)):
     for j in range(len(matrica[i])):
         print(matrica[i][j], end=" ")
