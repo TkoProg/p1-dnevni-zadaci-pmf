@@ -4,9 +4,6 @@ b = int(input("Unesite broj kolone: "))
 m = int(input("Unesite dimenzije unutrasnjeg kvadrata: "))
 
 matrica = []
-brojaca = 0
-brojacb = 0
-brojacm = 0
 
 for i in range(n):
     red = []
