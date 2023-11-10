@@ -14,8 +14,6 @@ for i in range(n):
         red.append("-")
     matrica.append(red)
 
-print(matrica)
-
 for i in range(a-1, m+a-1):
     for j in range(b-1, m+b-1):
         matrica[i][j] = " "
