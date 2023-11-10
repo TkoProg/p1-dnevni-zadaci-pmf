@@ -5,6 +5,7 @@ m = int(input("Unesite dimenzije unutrasnjeg kvadrata: "))
 
 matrica = []
 
+
 for i in range(n):
     red = []
     for j in range(n):
