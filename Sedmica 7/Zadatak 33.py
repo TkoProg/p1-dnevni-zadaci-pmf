@@ -22,6 +22,7 @@ while True:
         o = "//"
 
     print(f"Generisana operacija: '{o}'")
+
     print("---------------------------")
 
     if operacija == 1:
