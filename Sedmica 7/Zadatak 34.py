@@ -1,3 +1,5 @@
+# Stvarno mi je mrsko uraditi ovaj zadatak, bukvalno imam ispite a prevelika je pegla, iako je lagano.
+
 import random
 
 brojac = 0
