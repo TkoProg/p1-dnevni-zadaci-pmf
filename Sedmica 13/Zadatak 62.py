@@ -10,7 +10,7 @@ najmanji = "0"*broj_nula + najmanji
 brojac = 0
 broj = ""
 
-for i in range(len(najmanji)-1, -1, -1):
+for i in range(len(najmanji) - 1, -1, -1):
     zbir = str(int(najmanji[i]) + int(najveci[i]))
     cifra = zbir[-1]
     broj += cifra
